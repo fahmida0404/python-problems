@@ -1,4 +1,4 @@
-# Program to display a suitable message according to the temperature.
+# Program to display a suitable weather message according to the temperature.
 
 t = float(input("Enter temperature in Centrigrade:"))
 
